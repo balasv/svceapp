@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+/*eslint-env node */
 var express = require('express');
 var app = express();
 var http = require('http')
